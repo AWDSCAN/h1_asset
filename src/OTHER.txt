@@ -1819,3 +1819,4 @@ Security vulnerabilities that are identified in digital properties owned, operat
 Dia Assistant
 iVUE Launcher / Frameworks
 Other Asset (Campaigns)
+Munkisrv Open Source Project

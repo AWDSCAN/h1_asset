@@ -18210,3 +18210,5 @@ login.remitly.com
 www.getyourguide.com
 travelers-api.getyourguide.com
 https://optout.life2.corebridgefinancial.com/optout/login.jsp
+drakesoftware.com
+https://collabora.stg.inspectorio.com

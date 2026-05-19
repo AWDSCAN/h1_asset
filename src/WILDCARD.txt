@@ -5488,3 +5488,4 @@ static*.twilio.com
 *.hel.io
 *.www.aspectenterprise.com
 *.playstation.com
+*.gymsharkapps.io

@@ -5489,3 +5489,5 @@ static*.twilio.com
 *.www.aspectenterprise.com
 *.playstation.com
 *.gymsharkapps.io
+*.vfc-int.com
+*.vfc.com

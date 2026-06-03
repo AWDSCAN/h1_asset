@@ -5502,3 +5502,4 @@ www.*gogo*.com
 www.gogo*.*
 *.devin.ai
 *.ppb.com
+www.*.gogoair.*.com

@@ -5532,3 +5532,7 @@ www.*.gogoair.*.com
 *.discoverfinancial.com
 *.www.olf.com
 *.www.openlink.com
+*.omnicell.com
+*.myomnicell.com
+*.enlivenhealth.co
+*.wolt.com

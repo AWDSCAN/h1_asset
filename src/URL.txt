@@ -18781,3 +18781,13 @@ sabal.com
 stagingwpm.neustar.biz
 maestro.8x8.cloud
 8x8.cloud
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+wolt.com
+supplier-api.getyourguide.com
+supplier-support.getyourguide.com
+supplier.getyourguide.com

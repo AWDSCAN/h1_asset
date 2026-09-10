@@ -5581,3 +5581,4 @@ info*semtech.com
 *.mercadolibre.com.ve
 *.swaps.xyz
 *.tiqets.com
+*.expedia-aarp.com

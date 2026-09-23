@@ -5589,3 +5589,4 @@ mercadolibreexperience.com.*
 *.expediataaprewards.com
 *.vercel.live
 *.vercel.com
+*.zurich.com.sg

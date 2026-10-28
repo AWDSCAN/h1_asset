@@ -5641,3 +5641,8 @@ https://github.com/deepjavalibrary/*
 *uat.marriott.com
 *.dflow.net
 *.zurich.com.cn
+*.bose.io
+*.thrifty.com
+*.dollar.com
+*.oromobility.com
+*.hertz.io
